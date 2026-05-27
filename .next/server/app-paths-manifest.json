@@ -1,0 +1,6 @@
+{
+  "/(app)/posts/page": "app/(app)/posts/page.js",
+  "/(app)/page": "app/(app)/page.js",
+  "/(app)/search/page": "app/(app)/search/page.js",
+  "/(app)/infinite/page": "app/(app)/infinite/page.js"
+}
